@@ -1,0 +1,10 @@
+# Ignore raw data
+data/raw/
+*.xlsx
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
